@@ -1,0 +1,25 @@
+section{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  main{
+  /*   height:50%; */
+    width: 100%;
+  /*   margin: auto; */
+  }
+  
+  #city-input, #weather-output {
+      max-width: 600px;
+      margin: 0 auto ;
+  /*     height: 90%; */
+  }
+    
+  .banner {
+      color: #FFD23F;
+      font-family: sans-serif;
+  }
+  
